@@ -1,0 +1,7 @@
+{
+  "name": "devdactivePwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
